@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+.form-select, .form-control {
+  width: 80% !important;
+}
+
+.thb {
+  right: 10px;
+}
+
+input:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
